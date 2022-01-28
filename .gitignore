@@ -109,26 +109,6 @@ data
 .vscode
 .idea
 
-# custom
-*.pkl
-*.pkl.json
-*.log.json
-work_dirs/
-exps/
-*~
-mmdet3d/.mim
-
-# Pytorch
-*.pth
-
-# demo
-*.jpg
-*.png
-data/s3dis/Stanford3dDataset_v1.2_Aligned_Version/
-data/scannet/scans/
-data/sunrgbd/OFFICIAL_SUNRGBD/
-*.obj
-*.ply
 
 # Waymo evaluation
 mmdet3d/core/evaluation/waymo_utils/compute_detection_metrics_main
